@@ -24,13 +24,4 @@ It covers most of the core Selenium functionalities with practice assignments an
 - **Language**: Java  
 - **Automation Tool**: Selenium WebDriver  
 - **Build Tool**: Maven 
-- **Testing Framework**: TestNG  
-
----
-
-## 📂 Project Structure
-┣ src/
-┃ ┣ Actions_Frames/
-┃ ┣ Assignment/
-┃ ┣ FullFlow/
-┃ ┗ Java_Code/
+- **Testing Framework**: TestNG
